@@ -27,5 +27,3 @@ Please download the citation network graph data from https://drive.google.com/fi
 
 - id_paperId.tsv:
     * This map dataset Id to Citation graph paper Id.
-
-**Note: This is an open source data, use at your own risk!**
